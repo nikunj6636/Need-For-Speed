@@ -1,0 +1,11 @@
+Model Information:
+* title:	Willys MB Jeep Low Poly
+* source:	https://sketchfab.com/3d-models/willys-mb-jeep-low-poly-1320959ea88c445fbe3add44e02411d3
+* author:	BedoyaCamilo (https://sketchfab.com/BedoyaCamilo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Willys MB Jeep Low Poly" (https://sketchfab.com/3d-models/willys-mb-jeep-low-poly-1320959ea88c445fbe3add44e02411d3) by BedoyaCamilo (https://sketchfab.com/BedoyaCamilo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>three.js tutorial</title>
+		<link rel="stylesheet" href="main.css">
+	</head>
+	<body style="height: 100%;">
+
+		<div id="start" style="background-color: #b3b3b3; gap: 2em;">
+
+			<div class="flex">
+				<img src="./controls.png" alt="Controls of the game" />
+				<div>
+					<h2>Press arrowUp for Accleration </h2>
+					<h2>Press arrowDown for Brakes </h2>
+					<h2>Press arrowRight to turn right </h2>
+					<h2>Press arrowLeft to turn left </h2>
+					<h2>Press T to toogle bw cars / third person's view</h2>
+				</div>
+			</div>
+
+			<div class="flex">
+				<img src="./fuel.png" alt="Fuel can" />
+				<h1> Collide with cans to collect fuel  </h1>
+			</div>
+
+			<div class="flex">
+				<img src="./collision.png" alt="Collision" />
+				<h1> Collision with opponent cars, running on grass reduces the health  </h1>
+			</div>
+
+			<div style="margin-bottom: 0; text-align: center;">
+				<h1> Game ends! when either health vanishes or fuel vanishes </h1>
+				<h1>Press S to start the game</h1>
+			</div>
+		</div>
+
+		<!-- display none to hide the element, on press S put display: flex -->
+		<div id = "labels" style="position: absolute; display: none; gap: 0.5em; flex-direction: column;">
+			<div>
+				<label for="time"> Time : </label>
+				<input type="number" id="time">
+			</div>
+		
+			<div>
+				<label for="health"> Health : </label>
+				<progress id="health" min="0" max="100"></progress>
+			</div>
+			
+			<div>
+				<label for="fuel"> Fuel : </label>
+				<progress id="fuel" min="0" max="100"></progress>
+			</div>
+
+			<div>
+				<label for="score"> Score : </label>
+				<progress id="score" min="0", max="100"></progress>
+			</div>
+
+			<div>
+				<label for="nextFuel"> Distance of next Fuel : </label>
+				<input type="number" id="nextFuel">
+			</div>
+		</div>
+
+		<div id="end" style="text-align: center; display: none; top: 50%; left: 50%;">
+			<h1> <span> Game Over! with score </span> <span id="endScore">  </span></h1>
+			<h1 id="endMessage">  </h1>
+		</div>
+
+		<script src="http://localhost:8080/dist/main.js"></script>
+	</body>
+</html>

@@ -1,0 +1,527 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 22580,
+      "max": [
+        0.7897385358810425,
+        1.413394808769226,
+        1.6432185173034668
+      ],
+      "min": [
+        -0.7897385358810425,
+        0.00852668285369873,
+        -1.669697880744934
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 270960,
+      "componentType": 5126,
+      "count": 22580,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 22580,
+      "max": [
+        0.9023436903953552,
+        0.8867186903953552
+      ],
+      "min": [
+        0.01000000536441803,
+        0.01000000536441803
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 36912,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 541920,
+      "componentType": 5126,
+      "count": 12,
+      "max": [
+        0.4533994793891907,
+        1.0514672994613647,
+        1.404630184173584
+      ],
+      "min": [
+        -0.4533994793891907,
+        1.0391201972961426,
+        0.5840836763381958
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 542064,
+      "componentType": 5126,
+      "count": 12,
+      "max": [
+        0.01709330826997757,
+        0.9998381733894348,
+        -0.0056109861470758915
+      ],
+      "min": [
+        -0.01709330826997757,
+        0.9998381733894348,
+        -0.0056109861470758915
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 180640,
+      "componentType": 5126,
+      "count": 12,
+      "max": [
+        1.1514785289764404,
+        1.0990703105926514
+      ],
+      "min": [
+        -0.15850093960762024,
+        -0.08630746603012085
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 147648,
+      "componentType": 5125,
+      "count": 24,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 542208,
+      "componentType": 5126,
+      "count": 22,
+      "max": [
+        0.7146335244178772,
+        1.0067099332809448,
+        -0.940604567527771
+      ],
+      "min": [
+        -0.7146335244178772,
+        0.5567777156829834,
+        -1.3307794332504272
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 542472,
+      "componentType": 5126,
+      "count": 22,
+      "max": [
+        1.0,
+        0.0,
+        3.533655217324849e-07
+      ],
+      "min": [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 180736,
+      "componentType": 5126,
+      "count": 22,
+      "max": [
+        0.7877044677734375,
+        0.8638182282447815
+      ],
+      "min": [
+        -0.3246258497238159,
+        -0.41887134313583374
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 147744,
+      "componentType": 5125,
+      "count": 42,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 542736,
+      "componentType": 5126,
+      "count": 555,
+      "max": [
+        0.6405277848243713,
+        0.6849582195281982,
+        0.012843430042266846
+      ],
+      "min": [
+        -0.6405277848243713,
+        -0.05838115140795708,
+        -0.41672834753990173
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 549396,
+      "componentType": 5126,
+      "count": 555,
+      "max": [
+        1.0,
+        0.9907987117767334,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9854375720024109,
+        -0.9687508940696716
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 180912,
+      "componentType": 5126,
+      "count": 555,
+      "max": [
+        0.5558070540428162,
+        0.8906494379043579
+      ],
+      "min": [
+        0.39174455404281616,
+        0.8828369379043579
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 147912,
+      "componentType": 5125,
+      "count": 852,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "BedoyaCamilo (https://sketchfab.com/BedoyaCamilo)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/willys-mb-jeep-low-poly-1320959ea88c445fbe3add44e02411d3",
+      "title": "Willys MB Jeep Low Poly"
+    },
+    "generator": "Sketchfab-13.42.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 151320,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 185352,
+      "byteOffset": 151320,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 556056,
+      "byteOffset": 336672,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 892728,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Color_Base_baseColor.png"
+    },
+    {
+      "uri": "textures/Estrella_baseColor.png"
+    },
+    {
+      "uri": "textures/Estrella_2_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Color_Base",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8211145618000169
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Estrella",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8211145618000169
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Estrella_2",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8211145618000169
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Jeep_Color Base_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Jeep_Estrella_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Jeep_Estrella 2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ventana_Color Base_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Willys MB Jeep_FBX.fbx"
+    },
+    {
+      "children": [
+        3,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.010000050067901611,
+        0.0,
+        1.0
+      ],
+      "name": "Jeep"
+    },
+    {
+      "mesh": 0,
+      "name": "Jeep_Color Base_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Jeep_Estrella_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Jeep_Estrella 2_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.9019321799278259,
+        0.5329561829566956,
+        1.0
+      ],
+      "name": "Ventana"
+    },
+    {
+      "mesh": 3,
+      "name": "Ventana_Color Base_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

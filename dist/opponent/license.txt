@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly JEEP
+* source:	https://sketchfab.com/3d-models/lowpoly-jeep-f5ba7df7119941cd807f87558e67f866
+* author:	prorookie123 (https://sketchfab.com/prorookie123)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly JEEP" (https://sketchfab.com/3d-models/lowpoly-jeep-f5ba7df7119941cd807f87558e67f866) by prorookie123 (https://sketchfab.com/prorookie123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
