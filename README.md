@@ -46,4 +46,4 @@ To start the server in windows OS
 ```
 npx webpack --config webpack.config.js
 servez.cmd
-``
+```
